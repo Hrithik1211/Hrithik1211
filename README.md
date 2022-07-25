@@ -1,3 +1,3 @@
-<div style="color:'red'">
+<div style="color:'pink'">
 	Hello
 </div>
